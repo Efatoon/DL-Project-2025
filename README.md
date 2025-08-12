@@ -1,6 +1,6 @@
 # Deep Learning Project: BERT + Metadata for Review Score Prediction
 
-## 📑 Table of Contents
+## Table of Contents
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
 - [Model Architecture](#model-architecture)
